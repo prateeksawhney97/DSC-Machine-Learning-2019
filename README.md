@@ -25,3 +25,5 @@
 #### 2.2 Unsupervised Learning
 
 #### 2.2.1 K Means Clustering Algorithm
+
+### Presentation - https://drive.google.com/open?id=1SVg85hRusqoZ0JPM7Md9T6-giEMqS2vM
