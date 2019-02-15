@@ -29,4 +29,28 @@
 
 #### 2.2.1 K Means Clustering Algorithm
 
-### Presentation - https://drive.google.com/open?id=1SVg85hRusqoZ0JPM7Md9T6-giEMqS2vM
+#### Presentation - https://drive.google.com/open?id=1SVg85hRusqoZ0JPM7Md9T6-giEMqS2vM
+
+### 3. Neural Networks
+
+#### 3.1 Linear to Logistic Regression
+
+#### 3.2 Classification Problems
+
+### 4. Deep Learning Frameworks:
+
+#### 4.1 Tensorflow
+
+### 5. Deep Neural Networks
+
+#### 5.1 Dropout
+
+#### 5.2 Regularization
+
+#### 5.3 Dropout
+
+### 6. Convolutional Neural Networks
+
+#### 6.1 Introduction to CNN's
+
+#### 6.2 Studying LeNet
