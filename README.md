@@ -2,6 +2,9 @@
 
 ## Course Structure for Machine Learning in Developer Students Club - MAIT
 
+![51991358_1217507548396803_7793278361148588032_n](https://user-images.githubusercontent.com/34116562/52846654-32ae8480-3130-11e9-8192-52c78b305741.png)
+
+
 ### Coursework
 
 ### 1. Introduction
