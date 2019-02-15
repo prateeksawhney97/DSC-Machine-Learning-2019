@@ -14,13 +14,13 @@
 
 #### 2.1 Supervised Learning
 
-##### 2.1.1 Linear Regression
+#### 2.1.1 Linear Regression
 
-##### 2.1.2 Gradient Descent 
+#### 2.1.2 Gradient Descent 
 
-##### 2.1.3 Linear Regression with one varibale
+#### 2.1.3 Linear Regression with one variable
 
-##### 2.1.4 Logistic Regression
+#### 2.1.4 Logistic Regression
 
 #### 2.2 Unsupervised Learning
 
